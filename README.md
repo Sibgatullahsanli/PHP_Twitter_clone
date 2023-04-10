@@ -53,3 +53,10 @@ Modify the javascript files in public/js. Change the url to your url. Files to m
 ```Javascript
   let url = 'http://localhost:8888/twitter/';
 ```
+
+[PATİKA](https://app.patika.dev/) dev in Php dersleri çerçevesinde çAlıştığımız PHP ile Backend Patikası Projeleri
+için verilen TWEET Uygulaması ödevimiz.
+
+[Patika Profilim](https://app.patika.dev/sibgat)
+
+[GitHub Profilim](https://github.com/Sibgatullahsanli)
